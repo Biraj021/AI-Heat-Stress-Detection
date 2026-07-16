@@ -7,8 +7,8 @@
 // WiFi Configuration
 // ==========================
 
-const char* ssid = "hi";
-const char* password = "12121314";
+const char* ssid = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 
 
 // ==========================
