@@ -1,0 +1,15 @@
+# AI Libraries
+pandas
+numpy
+scikit-learn
+joblib
+
+# Backend
+Flask
+
+# Dashboard
+streamlit
+plotly
+
+# Communication
+requests
